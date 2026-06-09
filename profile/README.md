@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=tin%20+%20topo&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Chattanooga,%20Tennessee%20&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=tin+topo&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Chattanooga,%20Tennessee%20&descAlignY=58&descSize=16"
     alt="tin+topo profile banner"
   />
 </p>
@@ -12,14 +12,14 @@
   <a href="https://www.tinandtopo.com" target="_blank" rel="noopener noreferrer">
     <img alt="tin+topo" src="https://img.shields.io/badge/tin%20+%20topo-D22730?style=for-the-badge" />
   </a>
-  <a href="https://www.google.com/maps/place/North+Chickamauga+Creek+Gorge+State+Park/@35.1739689,-85.2944553,12z/data=!4m15!1m8!3m7!1s0x886060408a83e785:0x2471261f898728aa!2sChattanooga,+TN!3b1!8m2!3d35.0457984!4d-85.3093995!16zL20vMHB6cHo!3m5!1s0x88608cd360e5512f:0x8ded86014cd2659f!8m2!3d35.2551805!4d-85.2686019!16s%2Fg%2F11h3qp7ryw!5m1!1e4?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">
-    <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga-168AAD?style=for-the-badge" />
+  <a href="https://www.google.com/maps/place/North+Chickamauga+Creek+Gorge+State+Park/@35.2519627,-85.2740458,14.25z/data=!4m6!3m5!1s0x88608cd360e5512f:0x8ded86014cd2659f!8m2!3d35.2551805!4d-85.2686019!16s%2Fg%2F11h3qp7ryw!5m1!1e4?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">
+    <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga, TN-168AAD?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/tn-dept-ag/.github/main/profile/assets/logo.png"
+    src="https://raw.githubusercontent.com/tin-and-topo/.github/main/profile/assets/logo.png"
     width="200"
     height="100"
     alt="tin+topo"
@@ -28,12 +28,12 @@
 
 ## Welcome to the `tin+topo` Hub
 
-This is the central GitHub space for `tin+topo`
+This is the central GitHub space for `tin+topo`, where we share maps, apps, and open-source code to the greater geospatial community.
 
 Our mission is to:
 - Make spatial information easier to understand.
+- Create beautiful and actionable static and interactive maps.
 - Build clean, reproducible data workflows.
-- Turn analysis into tools that support agency decisions.
 
 ## Our Work
 
@@ -63,16 +63,16 @@ Here are a few of our key open-source projects.
 
 We welcome contributions and suggestions! The best way to engage is to open an issue to discuss a bug or new idea.
 
-- 📝 **[Suggest a feature or enhancement](https://github.com/tn-dept-ag/.github/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFeature%5D%3A+)**
-- 🐛 **[Report a bug or an error](https://github.com/tn-dept-ag/.github/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBug%5D%3A+)**
+- 📝 **[Suggest a feature or enhancement](https://github.com/tin-and-topo/.github/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFeature%5D%3A+)**
+- 🐛 **[Report a bug or an error](https://github.com/tin-and-topo/.github/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBug%5D%3A+)**
 
-Please review our **[Contributing Guidelines](https://github.com/tn-dept-ag/.github/blob/main/CONTRIBUTING.md)** before opening a pull request.
+Please review our **[Contributing Guidelines](https://github.com/tin-and-topo/.github/blob/main/CONTRIBUTING.md)** before opening a pull request.
 
 ## Recent Stories
 
-- <a href="https://www.tn.gov/agriculture/news/2026/5/5/tennessee-agricutlural-crime-unit-secures-conviction-in-monroe-county-barn-arson-case.html" target="_blank">Tennessee Agricultural Crime Unit Secures Conviction in Monroe County Barn Arson Case</a>
+- <a href="https://medium.com/@colintimothystiles/case-study-mapping-geohazards-in-the-philippines-731823f61772" target="_blank">GIS Case Study: Mapping Geohazards in the Philippines (on Medium)</a>
 
-- <a href="https://www.tn.gov/agriculture/news/2026/4/17/tennessee-launches--34-million-hurricane-helene-relief-program-for-farmers-and-forest-landowners.html" target="_blank">Tennessee Launches $34 Million Hurricane-Helene Relief Program for Farmers and Forest Landowners</a>
+- <a href="https://medium.com/@colintimothystiles/arcgis-pro-python-analyzing-land-cover-change-in-major-global-urban-centers-6affacdb6d78" target="_blank">ArcGIS Pro & Python: Analyzing Land Cover Change in Major Global Urban Centers (on Medium)</a>
 
 
 ## Connect
