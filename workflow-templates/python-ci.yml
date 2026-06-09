@@ -1,0 +1,58 @@
+# This is a starter workflow for Python projects.
+#
+# To use this workflow, you will need to have a `requirements.txt` file
+# in your repository and your tests should be discoverable by `pytest`.
+#
+# For more information, see: https://docs.github.com/en/actions
+
+name: Python CI
+
+# This metadata is what makes the template appear in the GitHub UI
+description: Standard Python CI workflow for linting, testing, and security scanning.
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  build:
+    name: Lint, Test, and Scan
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9' # Standardize on a version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flake8 pytest bandit
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Lint with flake8
+        run: |
+          # stop the build if there are Python syntax errors or undefined names
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+
+      - name: Scan for vulnerabilities with Bandit
+        run: |
+          bandit -r . -c .bandit.yml || true # Run with a config file if it exists, don't fail the build
+
+      - name: Test with pytest
+        run: |
+          pytest
+
+      - name: Ensure README is updated
+        run: |
+          # Fails if default template text is still in the README
+          ! grep -q '\[Project Title Here\]' README.md
+          ! grep -q '\[Your Name\]' README.md
+        shell: bash
