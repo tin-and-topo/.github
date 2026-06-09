@@ -20,8 +20,8 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/tin-and-topo/.github/main/profile/assets/logo.png"
-    width="200"
-    height="100"
+    width="500"
+    height="300"
     alt="tin+topo"
   />
 </p>
@@ -55,7 +55,7 @@ Here are a few of our key open-source projects.
 
 | Repository | Description |
 | :--- | :--- |
-| **[tennessee-hunting](https://github.com/tin-and-topo/tennessee-hunting)** | Our standard project template for reproducible GIS and data science work. |
+| **[tt-template](https://github.com/tin-and-topo/tt-template)** | Our standard project template for reproducible GIS and data science work. |
 | **[chattanooga-crime](https://github.com/tin-and-topo/chattanooga-crime)** | Scripts to automate daily backups of ArcGIS Online hosted feature layers. |
 | **[.github](https://github.com/tin-and-topo/.github)** | The central repository for our organization's community health files and templates. |
 
@@ -70,9 +70,9 @@ Please review our **[Contributing Guidelines](https://github.com/tin-and-topo/.g
 
 ## Recent Stories
 
-- <a href="https://medium.com/@colintimothystiles/case-study-mapping-geohazards-in-the-philippines-731823f61772" target="_blank">GIS Case Study: Mapping Geohazards in the Philippines (on Medium)</a>
+- <a href="https://medium.com/@colintimothystiles/case-study-mapping-geohazards-in-the-philippines-731823f61772" target="_blank">(Medium) GIS Case Study: Mapping Geohazards in the Philippines</a>
 
-- <a href="https://medium.com/@colintimothystiles/arcgis-pro-python-analyzing-land-cover-change-in-major-global-urban-centers-6affacdb6d78" target="_blank">ArcGIS Pro & Python: Analyzing Land Cover Change in Major Global Urban Centers (on Medium)</a>
+- <a href="https://medium.com/@colintimothystiles/arcgis-pro-python-analyzing-land-cover-change-in-major-global-urban-centers-6affacdb6d78" target="_blank">(Medium) ArcGIS Pro & Python: Analyzing Land Cover Change in Major Global Urban Centers</a>
 
 
 ## Connect
