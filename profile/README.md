@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=tin+topo&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Chattanooga,%20Tennessee%20&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=tin&plus;&topo&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=chattanooga,%20tennessee%20&descAlignY=58&descSize=20"
     alt="tin+topo profile banner"
   />
 </p>
@@ -55,9 +55,9 @@ Here are a few of our key open-source projects.
 
 | Repository | Description |
 | :--- | :--- |
-| **[tda-admin-management](https://github.com/tn-dept-ag/tda-admin-management)** | Our standard project template for reproducible GIS and data science work. |
-| **[tdf-agol-data-backups](https://github.com/tn-dept-ag/tdf-agol-data-backups)** | Scripts to automate daily backups of ArcGIS Online hosted feature layers. |
-| **[.github](https://github.com/tn-dept-ag/.github)** | The central repository for our organization's community health files and templates. |
+| **[tennessee-hunting](https://github.com/tin-and-topo/tennessee-hunting)** | Our standard project template for reproducible GIS and data science work. |
+| **[chattanooga-crime](https://github.com/tin-and-topo/chattanooga-crime)** | Scripts to automate daily backups of ArcGIS Online hosted feature layers. |
+| **[.github](https://github.com/tin-and-topo/.github)** | The central repository for our organization's community health files and templates. |
 
 ## How to Contribute
 
