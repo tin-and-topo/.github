@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=tin&plus;&topo&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=chattanooga,%20tennessee%20&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=tin&plus&topo&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=chattanooga,%20tennessee%20&descAlignY=58&descSize=20"
     alt="tin+topo profile banner"
   />
 </p>
