@@ -43,7 +43,7 @@ This organization is managed by Colin Stiles. For official inquiries, please vis
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/tn-dept-ag/.github/main/profile/assets/recent-map.jpg"
+    src="https://raw.githubusercontent.com/tn-dept-ag/.github/main/profile/assets/recent-map.png"
     alt="Chickasaw Ecological Areas"
     width="720"
   />
