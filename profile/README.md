@@ -78,11 +78,5 @@ Please review our **[Contributing Guidelines](https://github.com/tin-and-topo/.g
 ## Connect
 
 <p>
-  <a href="https://www.tn.gov/agriculture.html" target="_blank" rel="noopener noreferrer"><img alt="Tennessee Department of Agriculture" src="https://img.shields.io/badge/Tennessee%20Department%20of%20Agriculture-004b8d?style=flat-square"></a>
-  <a href="https://www.linkedin.com/company/tnagriculture/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/TNAgriculture" target="_blank" rel="noopener noreferrer"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://www.facebook.com/TNAgriculture" target="_blank" rel="noopener noreferrer"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCcy9KqFvSPTUwDiRTaROR2Q" target="_blank" rel="noopener noreferrer"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/tnagriculture/" target="_blank" rel="noopener noreferrer"><img alt="TDA Instagram" src="https://img.shields.io/badge/TDA%20Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://www.instagram.com/tnwildlandfire/" target="_blank" rel="noopener noreferrer"><img alt="Wildland Fire Instagram" src="https://img.shields.io/badge/Wildland%20Fire%20Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-</p>
+  <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-004b8d?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
