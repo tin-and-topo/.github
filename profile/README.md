@@ -56,7 +56,7 @@ Here are a few of our key open-source projects.
 | Repository | Description |
 | :--- | :--- |
 | **[tt-template](https://github.com/tin-and-topo/tt-template)** | Our standard project template for reproducible GIS and data science work. |
-| **[chattanooga-crime](https://github.com/tin-and-topo/chattanooga-crime)** | Scripts to automate daily backups of ArcGIS Online hosted feature layers. |
+| **[tt-chattanooga-crime](https://github.com/tin-and-topo/tt-chattanooga-crime)** | Chattanooga crime statistics. |
 | **[.github](https://github.com/tin-and-topo/.github)** | The central repository for our organization's community health files and templates. |
 
 ## How to Contribute
@@ -78,5 +78,6 @@ Please review our **[Contributing Guidelines](https://github.com/tin-and-topo/.g
 ## Connect
 
 <p>
+  <a href="https://tinandtopo.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/tin+topo.com-004b8d?style=flat-square"></a>
   <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-004b8d?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
