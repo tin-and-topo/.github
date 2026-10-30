@@ -79,5 +79,5 @@ Please review our **[Contributing Guidelines](https://github.com/tin-and-topo/.g
 
 <p>
   <a href="https://tinandtopo.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/tin+topo.com-004b8d?style=flat-square"></a>
-  <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-004b8d?style=flat-square"></a>
+  <a href="https://colinstiles.github.io/cts-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-004b8d?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
