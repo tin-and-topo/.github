@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=tin%2Btopo&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=chattanooga,%20tennessee%20&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:241F1A,45:69412A,100:A15C38&text=tin%2Btopo&fontColor=F3F0EA&fontSize=42&fontAlignY=38&desc=custom%20maps%20and%20applications%20&descAlignY=58&descSize=20"
     alt="tin+topo profile banner"
   />
 </p>
@@ -10,10 +10,10 @@
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-tin--and--topo-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.tinandtopo.com" target="_blank" rel="noopener noreferrer">
-    <img alt="tin+topo" src="https://img.shields.io/badge/tin%20+%20topo-D22730?style=for-the-badge" />
+    <img alt="tin+topo" src="https://img.shields.io/badge/tin%20+%20topo-A15C38?style=for-the-badge" />
   </a>
   <a href="https://www.google.com/maps/place/North+Chickamauga+Creek+Gorge+State+Park/@35.2519627,-85.2740458,14.25z/data=!4m6!3m5!1s0x88608cd360e5512f:0x8ded86014cd2659f!8m2!3d35.2551805!4d-85.2686019!16s%2Fg%2F11h3qp7ryw!5m1!1e4?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYwMy4xIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer">
-    <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga, TN-168AAD?style=for-the-badge" />
+    <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga, TN-5E6B6E?style=for-the-badge" />
   </a>
 </p>
 
@@ -39,14 +39,16 @@ Our mission is to:
 
 This organization is managed by Colin Stiles. For official inquiries, please visit our [public website](https://www.tinandtopo.com).
 
-## Featured Map
+A recent map from the [2026 map challenge](https://challenge.colinstiles.com/).
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/tn-dept-ag/.github/main/profile/assets/recent-map.png"
-    alt="Chickasaw Ecological Areas"
-    width="720"
-  />
+  <a href="https://challenge.colinstiles.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://challenge.colinstiles.com/2026/images/day-02.png"
+      alt="Day 2 map from the 2026 map challenge"
+      width="720"
+    />
+  </a>
 </p>
 
 ## Featured Repositories
@@ -78,6 +80,7 @@ Please review our **[Contributing Guidelines](https://github.com/tin-and-topo/.g
 ## Connect
 
 <p>
-  <a href="https://tinandtopo.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/tin+topo.com-004b8d?style=flat-square"></a>
-  <a href="https://colinstiles.github.io/cts-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-004b8d?style=flat-square"></a>
+  <a href="https://tinandtopo.com/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/tin+topo.com-241F1A?style=flat-square"></a>
+  <a href="https://challenge.colinstiles.com/" target="_blank" rel="noopener noreferrer"><img alt="Map challenge" src="https://img.shields.io/badge/challenge.colinstiles.com-856D40?style=flat-square"></a>
+  <a href="https://colinstiles.github.io/cts-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-524B44?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>

@@ -18,6 +18,8 @@ The files here provide a consistent baseline for contributions, support, and aut
 | .github/ISSUE_TEMPLATE | Default forms for creating new issues (bugs, features). |
 | .github/PULL_REQUEST_TEMPLATE.md | The default template for pull request descriptions. |
 | workflow-templates | Reusable GitHub Actions workflow templates for CI/CD. |
+| docs/branding.md | Earth-tone color guide for `tin+topo`. |
+| docs/branding.css | CSS custom properties and classes for that palette. |
 
 ## How Defaults Work
 

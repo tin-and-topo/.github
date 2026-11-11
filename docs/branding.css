@@ -1,0 +1,103 @@
+/*
+ * tin+topo brand tokens.
+ * Guide: docs/branding.md
+ *
+ * Favorites: Ink, Stone, Clay, Ochre.
+ * Other colors are mixes of those four.
+ * Role tokens point at a color. Prefer the role when styling UI.
+ */
+
+:root {
+  /* Favorites */
+  --tt-ink: #241f1a;
+  --tt-stone: #8a8178;
+  --tt-clay: #a15c38;
+  --tt-ochre: #c6a15a;
+
+  /* Mixed from the favorites */
+  --tt-ash: #524b44;
+  --tt-kiln: #69412a;
+  --tt-field: #856d40;
+  --tt-parchment: #e2dcd4;
+  --tt-paper: #f3f0ea;
+
+  /* Maps */
+  --tt-thicket: #6a6554;
+  --tt-creek: #5e6b6e;
+  --tt-loam: #966f58;
+
+  /* Roles */
+  --tt-text: var(--tt-ink);
+  --tt-text-secondary: var(--tt-ash);
+  --tt-bg: var(--tt-paper);
+  --tt-surface: var(--tt-parchment);
+  --tt-border: var(--tt-stone);
+  --tt-accent: var(--tt-clay);
+  --tt-accent-fill: var(--tt-kiln);
+  --tt-on-accent: var(--tt-paper);
+  --tt-highlight: var(--tt-ochre);
+  --tt-on-highlight: var(--tt-ink);
+  --tt-map-vegetation: var(--tt-thicket);
+  --tt-map-water: var(--tt-creek);
+  --tt-map-ground: var(--tt-loam);
+}
+
+.tt-text {
+  color: var(--tt-text);
+}
+
+.tt-text-secondary {
+  color: var(--tt-text-secondary);
+}
+
+.tt-bg {
+  background-color: var(--tt-bg);
+  color: var(--tt-text);
+}
+
+.tt-surface {
+  background-color: var(--tt-surface);
+  color: var(--tt-text);
+}
+
+.tt-border {
+  border-color: var(--tt-border);
+}
+
+.tt-accent {
+  color: var(--tt-accent);
+}
+
+.tt-accent-fill {
+  background-color: var(--tt-accent-fill);
+  color: var(--tt-on-accent);
+}
+
+.tt-highlight {
+  background-color: var(--tt-highlight);
+  color: var(--tt-on-highlight);
+}
+
+.tt-ink { color: var(--tt-ink); }
+.tt-stone { color: var(--tt-stone); }
+.tt-clay { color: var(--tt-clay); }
+.tt-ochre { color: var(--tt-ochre); }
+.tt-ash { color: var(--tt-ash); }
+.tt-kiln { color: var(--tt-kiln); }
+.tt-field { color: var(--tt-field); }
+.tt-thicket { color: var(--tt-thicket); }
+.tt-creek { color: var(--tt-creek); }
+.tt-loam { color: var(--tt-loam); }
+
+.tt-bg-ink { background-color: var(--tt-ink); color: var(--tt-paper); }
+.tt-bg-stone { background-color: var(--tt-stone); color: var(--tt-ink); }
+.tt-bg-clay { background-color: var(--tt-clay); color: var(--tt-paper); }
+.tt-bg-ochre { background-color: var(--tt-ochre); color: var(--tt-ink); }
+.tt-bg-ash { background-color: var(--tt-ash); color: var(--tt-paper); }
+.tt-bg-kiln { background-color: var(--tt-kiln); color: var(--tt-paper); }
+.tt-bg-field { background-color: var(--tt-field); color: var(--tt-paper); }
+.tt-bg-parchment { background-color: var(--tt-parchment); color: var(--tt-ink); }
+.tt-bg-paper { background-color: var(--tt-paper); color: var(--tt-ink); }
+.tt-bg-thicket { background-color: var(--tt-thicket); color: var(--tt-paper); }
+.tt-bg-creek { background-color: var(--tt-creek); color: var(--tt-paper); }
+.tt-bg-loam { background-color: var(--tt-loam); color: var(--tt-ink); }

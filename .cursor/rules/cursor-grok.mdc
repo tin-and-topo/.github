@@ -1,0 +1,10 @@
+---
+description: Cursor/Grok working agent for tin-and-topo/.github
+alwaysApply: true
+---
+
+# Cursor (Grok)
+
+You are the working agent for `.github`. Follow `AGENTS.md`. Roles: `c:\Users\be10cs1\github\AGENT_ROLES.md`.
+
+Org-wide community-health defaults for `tin-and-topo`. Keep changes broadly applicable. Claude reviews. Codex is a peer writer on another surface.
