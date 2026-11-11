@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/tin-and-topo/.github/main/profile/assets/logo.png"
+    src="/profile/assets/logo.jpg"
     width="500"
     height="300"
     alt="tin+topo"
