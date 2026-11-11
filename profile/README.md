@@ -31,9 +31,7 @@
 This is the central GitHub space for `tin+topo`, where we share maps, apps, and open-source code to the greater geospatial community.
 
 Our mission is to:
-- Make spatial information easier to understand.
 - Create beautiful and actionable static and interactive maps.
-- Build clean, reproducible data workflows.
 
 ## Our Work
 
