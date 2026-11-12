@@ -1,0 +1,19 @@
+{
+  "name": "tin+topo",
+  "short_name": "tin+topo",
+  "icons": [
+    {
+      "src": "tin-topo_v2_convex_favicon_primary_transparent_192px.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "tin-topo_v2_convex_favicon_primary_transparent_512px.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#A15C38",
+  "background_color": "#F3F0EA",
+  "display": "standalone"
+}

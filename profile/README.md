@@ -19,9 +19,9 @@
 
 <p align="center">
   <img
-    src="/profile/assets/logo.jpg"
-    width="500"
-    height="300"
+    src="/profile/assets/tt_favicon/tin-topo_v2_convex_favicon_primary_transparent_512px.png"
+    width="280"
+    height="280"
     alt="tin+topo"
   />
 </p>
